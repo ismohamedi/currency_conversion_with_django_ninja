@@ -1,4 +1,4 @@
-# currency_conversion
+# currency conversion with django ninja
 For Python developers just take the code and modify to fit your program needs
 How to run:
 1. pipenv shell #to create virtual environment
