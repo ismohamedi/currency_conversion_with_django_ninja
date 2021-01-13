@@ -1,5 +1,12 @@
 # currency_conversion
 For Python developers just take the code and modify to fit your program needs
+How to run:
+1. pipenv shell #to create virtual environment
+2. pipenv install # to install dependencies
+3. python manage.py runserver # to run server
+
+then you have to navigate on your browser at: http://127.0.0.1:8000/api/docs for OpenAPI GUI 
+ if you like just press your star there and dont forget to follow over there ha ha ha ha.
 
 All Supported Currencies
 
